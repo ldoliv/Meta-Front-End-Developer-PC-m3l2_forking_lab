@@ -1,3 +1,2 @@
-
-This is my name
-Version control Certification
+My Name
+Meta Version Control Certification
